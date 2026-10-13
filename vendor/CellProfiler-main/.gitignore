@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# 大测试数据 + 运行时输出
+tests/
+test/
+run_final/
+run_timed/
+full_test_run/
+*.hdf5
+*.h5
+*.tiff
+*.tif
+*.npz
+*.npy
+
+# IDE
+.vscode/
+.idea/

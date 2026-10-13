@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# 大数据
+example_data.tar.gz
+*.hdf5
+*.h5
+*.npz
+*.npy
+*.tif
+*.tiff
+*.png
+*.jpg
+
+# 测试数据
+tests/
+
+# IDE
+.vscode/
+.idea/
